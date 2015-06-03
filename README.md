@@ -1,2 +1,0 @@
-# datasciencecoursera
-Second Attempt
